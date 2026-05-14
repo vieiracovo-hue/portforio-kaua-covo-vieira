@@ -33,4 +33,4 @@ Este projeto representa a evolução de um protótipo inicial para um Produto M�
 
 ## 🖼 Preview do Projeto
 
-![Preview do Projeto](./PreviewdoProjeto.png)
+![Preview do Projeto](./preview-do-projeto.png)
